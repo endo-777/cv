@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Bangkok, Thailand, GMT",
   locationLink: "https://www.google.com/maps/place/Bangkok",
   about: "I'm new graduate and looking for a job. I'm a fast leaner can learn something new and have problem solving skill.",
-  summary: `Hi. My name is Phupha Noppakun  my nickname is phu. I love to learn something new  because it was fun. I’m a fast learner. I’m also have social skill i know how to work with people. My hobby is Simracing.`,
+  summary: `Hi. My name is Phupha Noppakun  my nickname is phu. I love to learn something new because it was fun. I’m a fast learner. I’m also have social skill i can work with people. I can speak english and a little bit of japanese My hobby is Simracing and sports .`,
   avatarUrl: "https://avatars.githubusercontent.com/endo-777",
   contact: {
     email: "phupha.works@gmail.com",
